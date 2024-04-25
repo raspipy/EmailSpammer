@@ -1,3 +1,3 @@
-Websites;Input;Submit
-https://www.crosswalk.com/newsletters/;/html/body/div[2]/div[1]/div/div[2]/table[1]/tbody/tr/td/table/tbody/tr/td/table/tbody/tr/td/p[4]/input;/html/body/div[2]/div[1]/div/div[2]/table[1]/tbody/tr/td/table/tbody/tr/td/table/tbody/tr/td/p[4]/span
-https://imagine5.com/newsletter-sign-up;[/html/body/div[3]/div/main/section/div[1]/div/div/div/form/div[1]/input[1], /html/body/div[3]/div/main/section/div[1]/div/div/div/form/div[2]/input];/html/body/div[3]/div/main/section/div[1]/div/div/div/form/div[3]/button
+Websites;Inputs;Submits
+https://www.crosswalk.com/newsletters/;"[""/html/body/div[2]/div[1]/div/div[2]/table[1]/tbody/tr/td/table/tbody/tr/td/table/tbody/tr/td/p[4]/input""]";[/html/body/div[2]/div[1]/div/div[2]/table[1]/tbody/tr/td/table/tbody/tr/td/table/tbody/tr/td/p[4]/span]
+https://imagine5.com/newsletter-sign-up;"[""/html/body/div[3]/div/main/section/div[1]/div/div/div/form/div[1]/input[1]"", ""/html/body/div[3]/div/main/section/div[1]/div/div/div/form/div[2]/input""]";[/html/body/div[3]/div/main/section/div[1]/div/div/div/form/div[3]/button]
